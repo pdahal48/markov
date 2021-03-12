@@ -1,0 +1,19 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "markov machine built using node",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdahal48/markov.git"
+  },
+  "author": "Prem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdahal48/markov/issues"
+  },
+  "homepage": "https://github.com/pdahal48/markov#readme"
+}
